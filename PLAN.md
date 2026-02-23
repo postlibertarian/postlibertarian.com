@@ -1,5 +1,0 @@
- - Get rid of the email sign up on the left side since that doesn't work any more
- - link my threads instead of my twitter https://www.threads.com/@postlibertarian
- - add another link in the sidebar to my new site Calibrations https://www.calibrations.blog/
- - remove the "META" sidebar section with login, entries feed, comments feed, wordpress.org since all of that is no longer functional
- - the "Archives" page doesn't really work, wondering if there's anything we can do about that. While you can get to an archives page, any given month's page doesn't work like https://postlibertarian.com/2024/08/ is just a 404. This is a key functionality of having a static site archive of my blog. 
