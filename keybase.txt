@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/postlibertarian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://postlibertarian.com
+  * I am postlibertarian (https://keybase.io/postlibertarian) on keybase.
+  * I have a public key with fingerprint A2A7 955D D994 2214 927C  D6FC 8497 1FA7 6D52 C923
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010124df91e7bad7fec2af8d819fad6000ba8ae033dd926d2b4f1ce9d8e8b2f2d1ab0a",
+            "fingerprint": "a2a7955dd9942214927cd6fc84971fa76d52c923",
+            "host": "keybase.io",
+            "key_id": "84971fa76d52c923",
+            "kid": "010124df91e7bad7fec2af8d819fad6000ba8ae033dd926d2b4f1ce9d8e8b2f2d1ab0a",
+            "uid": "6b92f0c340985d69e745d7fe84fe1019",
+            "username": "postlibertarian"
+        },
+        "service": {
+            "hostname": "postlibertarian.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474516576,
+    "expire_in": 157680000,
+    "prev": "91fc735a4f32a1c5eee2266519f7014db81105b05057bdc23f00af060e775d99",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIjAnicrZJbSFRBGMd3Ky9tdyooM4kTQYHZnDn3rSgMgyIU7OJD1jZzZmY9uJ6z
+nT2rmRUYQmYFSvlgYAWGvfgQGRhbillhN4IopDKoFDS6URRkYdEcqTcfexpm5v//
+ff/vm7k9a2ogFGzZ3dfTRgYuBB/cvJgMlAzv2lcjYIdUC+EaoZxOLDRGaMKLlFtE
+CAtABCKUCTNEqmFENEZNiJhOdNFgiKgAAIx0RIEkEWJAlUAsM9GkBtGpjiGDREQY
+ICFXYJYdpW7ctWyPYxFEmqEo3GPIEIqyATWTqMzUZUMTGdJUokDTgBI3ljkJ38HD
+YZSgeZbDz/gmMhFvEv1/zp2cwKnYgAyYkgwMXSGqQTVZ8aG6zCivZPjCBHVtVEG5
+Os4jxyxMXQ+5FrKFw7kCv6y0TOrP129ocmGe6VRwUtx1PMd0YlxQ5nnxsO/3quO+
+oYriyF9UBFs24UPlhkrqJizHFsIiV5qe5bNFmUcUVUVTcwV6IG65NGL5Cn6g8+6B
+X4ZWcqQhMlOTFCQzCSLRVCilEKqqwgelAVEmWBdFoGCgAEXDxIQSAwAxoAKqaQp/
+P8Fvbr/tCGGZx0RRjkxYURt5SZcKh/t6S6cFgqFAetoU/7MFQtPn/vuC36MZ4zNa
+nqUlzlV1bXyQnzrd2tQZXl5QOTO16Ex79oI5xsHmW1+Cv5XhwTebI+u/Jq3RpJn9
+vDaNfnu1sGXNAdjS3/DjSoEUylny4mfHV5xz414UlmwpXVHPXndsO99dZKXVzRt/
+l/d+qFAIPMxalFFROLy4aPDXy/H9bfc34EerUrFLo0d6Phy6dlZa275jsLP+8fw6
+3DD92FDNyED7vbKPl4sjHZ/zn5TVFO65tWzkUPHJ9MbWpwNZ+77PHrGPsFT/2/pN
+q+/W7b3+6UTxSufnuoLu2qzGO0fz0Ni0qxeUEgy7h6fA+3Td6NJfqfIvvzO3n/rx
+1Okf62L21urqpp2ZvWpR8/E/CWFOwA==
+=XTKn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/postlibertarian
+
+==================================================================
+
